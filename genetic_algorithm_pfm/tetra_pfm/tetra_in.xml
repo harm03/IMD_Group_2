@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Model Name="Case linear optimum vicinity" PFM_XML_Version="2.0">
+  <DecisionMaker Name="Default User" Type="2" Hash="">
+    <Comment />
+  </DecisionMaker>
+  <Alternative Name="RefA1" Type="1">
+    <Comment />
+  </Alternative>
+  <Alternative Name="RefA2" Type="1">
+    <Comment />
+  </Alternative>
+  <Alternative Name="A1" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A2" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A3" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A4" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A5" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A6" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A7" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A8" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A9" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A10" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A11" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A12" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A13" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A14" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A15" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A16" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A17" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A18" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A19" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A20" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A21" Type="0">
+    <Comment />
+      </Alternative>
+  <Alternative Name="A22" Type="0">
+    <Comment />
+      </Alternative>
+  <Criterion Name="Criteria" IsPreferenceIncreasing="1">
+    <Comment />
+    <Criterion Name="C1" IsPreferenceIncreasing="1">
+      <Comment />
+      <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
+        <Comment />
+      <RulerValue Name="A1" Value="33.80802901663431" />
+        <RulerValue Name="A2" Value="27.409311917933024" />
+        <RulerValue Name="A3" Value="20.563063393569564" />
+        <RulerValue Name="A4" Value="18.983127333478222" />
+        <RulerValue Name="A5" Value="20.681305508497275" />
+        <RulerValue Name="A6" Value="18.983127333478222" />
+        <RulerValue Name="A7" Value="25.775840033554445" />
+        <RulerValue Name="A8" Value="19.83221642098775" />
+        <RulerValue Name="A9" Value="19.83221642098775" />
+        <RulerValue Name="A10" Value="21.063662887201076" />
+        <RulerValue Name="A11" Value="20.681305508497275" />
+        <RulerValue Name="A12" Value="20.37656226739651" />
+        <RulerValue Name="A13" Value="20.986048749598055" />
+        <RulerValue Name="A14" Value="20.37656226739651" />
+        <RulerValue Name="A15" Value="20.37656226739651" />
+        <RulerValue Name="A16" Value="20.37656226739651" />
+        <RulerValue Name="A17" Value="20.37656226739651" />
+        <RulerValue Name="A18" Value="20.37656226739651" />
+        <RulerValue Name="A19" Value="20.37656226739651" />
+        <RulerValue Name="A20" Value="20.37656226739651" />
+        <RulerValue Name="A21" Value="20.37656226739651" />
+        <RulerValue Name="A22" Value="20.37656226739651" />
+      </Measurement>
+    </Criterion>
+    <Criterion Name="C2" IsPreferenceIncreasing="1">
+      <Comment />
+      <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
+        <Comment />
+      <RulerValue Name="A1" Value="67.64599405652571" />
+        <RulerValue Name="A2" Value="39.32074076492958" />
+        <RulerValue Name="A3" Value="66.41213317518627" />
+        <RulerValue Name="A4" Value="75.90727473524439" />
+        <RulerValue Name="A5" Value="63.838230375205846" />
+        <RulerValue Name="A6" Value="75.90727473524439" />
+        <RulerValue Name="A7" Value="35.27032183302282" />
+        <RulerValue Name="A8" Value="69.85225249474891" />
+        <RulerValue Name="A9" Value="69.85225249474891" />
+        <RulerValue Name="A10" Value="68.84936179071467" />
+        <RulerValue Name="A11" Value="63.88738056660049" />
+        <RulerValue Name="A12" Value="64.13060508547355" />
+        <RulerValue Name="A13" Value="63.64415604772742" />
+        <RulerValue Name="A14" Value="64.13060508547355" />
+        <RulerValue Name="A15" Value="64.13060508547355" />
+        <RulerValue Name="A16" Value="64.13060508547355" />
+        <RulerValue Name="A17" Value="64.13060508547355" />
+        <RulerValue Name="A18" Value="64.13060508547355" />
+        <RulerValue Name="A19" Value="64.13060508547355" />
+        <RulerValue Name="A20" Value="64.13060508547355" />
+        <RulerValue Name="A21" Value="64.13060508547355" />
+        <RulerValue Name="A22" Value="64.13060508547355" />
+      </Measurement>
+    </Criterion>
+    <Criterion Name="C3" IsPreferenceIncreasing="1">
+      <Comment />
+      <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
+        <Comment />
+      <RulerValue Name="A1" Value="99.99431498005555" />
+        <RulerValue Name="A2" Value="95.59898908464743" />
+        <RulerValue Name="A3" Value="98.88126261729855" />
+        <RulerValue Name="A4" Value="96.03814540775028" />
+        <RulerValue Name="A5" Value="99.35781724769029" />
+        <RulerValue Name="A6" Value="96.03857847886302" />
+        <RulerValue Name="A7" Value="93.48984384352508" />
+        <RulerValue Name="A8" Value="98.01814673949622" />
+        <RulerValue Name="A9" Value="98.01814673949622" />
+        <RulerValue Name="A10" Value="98.55744386670337" />
+        <RulerValue Name="A11" Value="99.35781724769029" />
+        <RulerValue Name="A12" Value="99.27374318984052" />
+        <RulerValue Name="A13" Value="99.43695745129355" />
+        <RulerValue Name="A14" Value="99.27374318984052" />
+        <RulerValue Name="A15" Value="99.27374318984052" />
+        <RulerValue Name="A16" Value="99.27374318984052" />
+        <RulerValue Name="A17" Value="99.27374318984052" />
+        <RulerValue Name="A18" Value="99.27374318984052" />
+        <RulerValue Name="A19" Value="99.27374318984052" />
+        <RulerValue Name="A20" Value="99.27374318984052" />
+        <RulerValue Name="A21" Value="99.27374318984052" />
+        <RulerValue Name="A22" Value="99.27374318984052" />
+      </Measurement>
+    </Criterion>
+    <Criterion Name="C4" IsPreferenceIncreasing="1">
+      <Comment />
+      <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
+        <Comment />
+      <RulerValue Name="A1" Value="40.54107666015625" />
+        <RulerValue Name="A2" Value="78.62701416015625" />
+        <RulerValue Name="A3" Value="53.358459472656236" />
+        <RulerValue Name="A4" Value="46.73004150390625" />
+        <RulerValue Name="A5" Value="55.66558837890625" />
+        <RulerValue Name="A6" Value="46.73004150390625" />
+        <RulerValue Name="A7" Value="87.15972900390625" />
+        <RulerValue Name="A8" Value="51.10015869140625" />
+        <RulerValue Name="A9" Value="51.10015869140625" />
+        <RulerValue Name="A10" Value="51.10015869140625" />
+        <RulerValue Name="A11" Value="55.66558837890625" />
+        <RulerValue Name="A12" Value="55.66558837890625" />
+        <RulerValue Name="A13" Value="55.66558837890625" />
+        <RulerValue Name="A14" Value="55.66558837890625" />
+        <RulerValue Name="A15" Value="55.66558837890625" />
+        <RulerValue Name="A16" Value="55.66558837890625" />
+        <RulerValue Name="A17" Value="55.66558837890625" />
+        <RulerValue Name="A18" Value="55.66558837890625" />
+        <RulerValue Name="A19" Value="55.66558837890625" />
+        <RulerValue Name="A20" Value="55.66558837890625" />
+        <RulerValue Name="A21" Value="55.66558837890625" />
+        <RulerValue Name="A22" Value="55.66558837890625" />
+      </Measurement>
+    </Criterion>
+    <Criterion Name="C5" IsPreferenceIncreasing="1">
+      <Comment />
+      <Measurement Name="Ratings" Type="0" DecisionMaker="Default User" SubType="0">
+        <Comment />
+      <RulerValue Name="A1" Value="67.08726257645456" />
+        <RulerValue Name="A2" Value="73.71498639237254" />
+        <RulerValue Name="A3" Value="80.80625854813425" />
+        <RulerValue Name="A4" Value="82.44273968827098" />
+        <RulerValue Name="A5" Value="80.68378461014598" />
+        <RulerValue Name="A6" Value="82.44273968827098" />
+        <RulerValue Name="A7" Value="75.40691937577097" />
+        <RulerValue Name="A8" Value="81.56326214920847" />
+        <RulerValue Name="A9" Value="81.56326214920847" />
+        <RulerValue Name="A10" Value="80.2877428620991" />
+        <RulerValue Name="A11" Value="80.68378461014598" />
+        <RulerValue Name="A12" Value="80.99943445145456" />
+        <RulerValue Name="A13" Value="80.36813476883738" />
+        <RulerValue Name="A14" Value="80.99943445145456" />
+        <RulerValue Name="A15" Value="80.99943445145456" />
+        <RulerValue Name="A16" Value="80.99943445145456" />
+        <RulerValue Name="A17" Value="80.99943445145456" />
+        <RulerValue Name="A18" Value="80.99943445145456" />
+        <RulerValue Name="A19" Value="80.99943445145456" />
+        <RulerValue Name="A20" Value="80.99943445145456" />
+        <RulerValue Name="A21" Value="80.99943445145456" />
+        <RulerValue Name="A22" Value="80.99943445145456" />
+      </Measurement>
+    </Criterion>
+    <Measurement Name="Criteria Weights" Type="1" DecisionMaker="Default User" SubType="0">
+      <Comment />
+      <RulerValue Name="C1" Value="0.2" />
+      <RulerValue Name="C2" Value="0.2" />
+      <RulerValue Name="C3" Value="0.2" />
+      <RulerValue Name="C4" Value="0.2" />
+      <RulerValue Name="C5" Value="0.2" />
+    </Measurement>
+  </Criterion>
+</Model>
